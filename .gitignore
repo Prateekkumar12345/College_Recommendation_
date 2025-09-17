@@ -1,0 +1,6 @@
+*.zip
+venv
+__pycache__
+Backend/models/*
+Backend/*.xlsx
+models
